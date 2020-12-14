@@ -1,3 +1,5 @@
+version 1.0 PR: https://github.com/batoolmalkawii/vg-stats/pull/1
+
 # vg stats
 
 In this project, we analyzed various datasets generated from **Kaggle** using the **Pandas** Python package. 
